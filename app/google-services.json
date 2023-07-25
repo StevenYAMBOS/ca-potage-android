@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940068449812",
+    "project_id": "ca-potage-app",
+    "storage_bucket": "ca-potage-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940068449812:android:9d773025349c38b6ed4101",
+        "android_client_info": {
+          "package_name": "com.stevenyambos.capotageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940068449812-v0havajq6ctttd56o0mi4f740vq17vi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSEQ3thZIgmKbdlubq670XpFAA074cmgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940068449812-42tm4j13gkcvd410v71k8hb86jko0fk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
